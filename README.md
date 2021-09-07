@@ -1,24 +1,29 @@
-# README
+# OUTDATED
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is unmaintained, it was only used as an educational project and should not be used because of potential security vulnerabilities. Please do not use this code without updating the gems used.
 
-Things you may want to cover:
+# Context
 
-* Ruby version
+* Build a Ruby on Rails API
 
-* System dependencies
+* Access this API from the main app [Spinkop](https://github.com/ClemColl/spinkop)
 
-* Configuration
+# Stack used
 
-* Database creation
+* Ruby on Rails
 
-* Database initialization
+* PostgreSQL
 
-* How to run the test suite
+* Puma
 
-* Services (job queues, cache servers, search engines, etc.)
+* Heroku
 
-* Deployment instructions
+* Git
 
-* ...
+# Concept
+
+This app is a simple scaffold where the data is used by another app as JSON
+
+# Observations
+
+This app was very simple as it's a simple scaffold but it had to be built well so that we can easily integrate data in our main app.
